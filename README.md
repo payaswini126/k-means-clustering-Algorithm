@@ -25,7 +25,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 2. Clone the Repository
 Clone this repository to your local machine:
-git clone https://github.com/your_username/customer-segmentation-kmeans.git
+git clone https://github.com/payaswini126/k-means-clustering-Algorithm.git
 cd customer-segmentation-kmeans
 
 3. Run the Script
